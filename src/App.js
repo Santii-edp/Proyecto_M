@@ -22,7 +22,7 @@ function App() {
       <Router>
         <Routes>
 
-          <Route path='/' exact element={<Main/>}>
+          <Route path='/' exact element={<Main2/>}>
 
 
           </Route>
